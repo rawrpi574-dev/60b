@@ -102,3 +102,15 @@ h2 {
   #vinyl-gallery {
     margin-left: 40px;
   }
+
+  a {
+    color: #000;
+    transition: color;
+    transition: dot;
+  }
+
+  a:hover {
+    color: red;
+    font-style: dot;
+  }
+  
